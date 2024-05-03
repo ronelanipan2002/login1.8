@@ -1,0 +1,27 @@
+#img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#title{
+    background-color: palevioletred;
+    border-radius: 50px;
+}
+body{
+   background-color: pink;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+
+}
+#schedule{
+    background-color: plum;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   border-radius: 50px;
+   border: none;
+   font-weight: bold;
+   height: 50dvb;
+}
